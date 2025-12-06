@@ -1,0 +1,5 @@
+{
+  "name": "FinanzaPro: Análisis Fundamental AI",
+  "description": "Plataforma de análisis fundamental de acciones utilizando IA para extraer datos financieros, generar informes anuales/trimestrales y realizar rankings comparativos de empresas.",
+  "requestFramePermissions": []
+}
